@@ -1,5 +1,5 @@
 # Deep-Learning
-Labs and projects
+Here is a short description of the labs and projects contained in this repository. These labs were not created as an assignment for the course, rather I did these for my own learning.
 
 Data Visualization and Regression: Visualization techniques, data inference, Confidence Metrics, Regression
 
